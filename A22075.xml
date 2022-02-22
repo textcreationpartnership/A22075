@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King whereas we haue bene informed of the great fraudes and deceits vsed in dying all kindes of silke, but especially in blacke ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22075</idno>
+            <idno type="STC">STC 8479</idno>
+            <idno type="STC">ESTC S122804</idno>
+            <idno type="EEBO-CITATION">33150763</idno>
+            <idno type="OCLC">ocm 33150763</idno>
+            <idno type="VID">28745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:64)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King whereas we haue bene informed of the great fraudes and deceits vsed in dying all kindes of silke, but especially in blacke ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first 3 lines of text.</note>
+                  <note>"Giuen at Theobalds the 17. day of Iuly, in the tenth yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Silk industry --  England --  Early works to 1800.</term>
+               <term>Dyes and dyeing --  Silk --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28745:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas We haue bene informed of the great fraudes and deceits vſed in dying of all kindes</hi> of Silke, but eſpecially in blacke, which hath ſo farre exceeded, that by the mixture of di<g ref="char:EOLhyphen"/>uerſe bad and hurtfull things in dying thereof, as namely of a corrupt matter or ſtuffe called <hi>Slippe,</hi> there hath bene an extraordinarie increaſe of weight, ſometimes to the doub<g ref="char:EOLhyphen"/>ling of that which it was before, and ſometimes more and ſometimes leſſe, wherby the ſilke ſo deceitfully Dyed, is ſo rotted, corrupted &amp; ſpoiled, that it is not fit to be worne or vſed, and yet is falſly made faire to the eye, to deceiue and abuſe the buyer and wearer thereof: And whereas alſo Wee haue taken knowledge that an Acte of Common Councell hath lately paſſed for reformation of ſuch kind of deceitfull Dying of Silke within our City of Lon<g ref="char:EOLhyphen"/>don and the Liberties thereof: And that the carefull putting the ſaid Acte in execution hath already wrought ſome good effect within the ſaid City and the Liberties thereof, for the aboliſhing of the ſaid fraud and deceit: And wheras alſo We are informed, that great quantities of the ſaid corrupt dyed Silke is not onely daily brought into this Kingdome from forraine parts, but alſo the ſame is couertly Dyed, and ſold in many places of this Realme, whereby Wee doe perceiue and foreſee, that if there be not preſent reſtraint, and that a publike Reformation thereof be not executed in all parts of the Realme, Our louing Subiects will bee ſtill abuſed and deceiued; notwithſtanding any good order that can be taken within Our ſaid Citie of London for reformation thereof: Wherefore Wee hauing with the aduiſe of Our Councell conceiued that it is very requiſite to prohibite and ſuppreſſe the Dying &amp; ſelling of ſuch corrupt Dyed Silke in all places of this our Realme, and to giue Order that no perſon or perſons whatſoeuer, ſhall hereafter bring into this Kingdome from forraine parts, any ſuch deceitfull heauy dyed Silke: haue thought fit to ſignifie Our pleaſure to Our louing Subiects by Our Proclamati<g ref="char:EOLhyphen"/>on in that behalfe: Willing, and ſtraightly charging &amp; commanding all and all maner of perſons whatſoeuer, aſwell Our naturall borne Subiects, as Denizens or Strangers, that none of them, nor any other perſon or perſons whatſoeuer, doe at any time or times hereafter attempt, or preſume to bring or cauſe to be brought into this our Realme, or Dye or cauſe to be Dyed in any parts thereof, or ſell or put to ſale, or cauſe to be ſold or to be put to ſale, any Silke dyed with that corrupt matter or Stuffe called <hi>Slippe,</hi> or any other matter or ſtuffe, which cauſeth any increaſe of weight in the ſaid Silke more then of neceſſitie is required for the colour thereof, vpon paine of forfeiture of all and euery quantitie and quantities of Silke ſo corrupted, Dyed, or ſo brought or cauſed to be brought into this Our Realme, or ſold or put to ſale, or cauſed to be ſold or put to ſale contrary to this Our preſent Commandement; And alſo vpon paine of confiſcation of the ſaid Silke to be burnt, and of Our high indignation and diſpleaſure, and of ſuch further paines, penalties and puniſhments, as for the contempt of Our Commandement Royall in this behalfe may any way be inflicted vpon them or any of them ſo offen<g ref="char:EOLhyphen"/>ding. And We alſo ſtraightly charge and command all and ſinguler Juſtices of peace. Mayors, Sheriffes, Bayliffes Conſtables, Headboroughs, and all other our Officers and Subiects whatſoeuer, that they doe at all times hereafter care<g ref="char:EOLhyphen"/>fully and diligently ſee and take order, that this Our ordinance and Royall Commandement hereby ſignified and expreſſed be in all points duely performed, and that as often as information ſhall bee brought to them of any Silke of that kinde ſo falſified in the weight, either brought into this Kingdome or Dyed here, That they doe ſeize the ſame, and aduertiſe Ou<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Councell of the quantitie and the parties faultie, that order may be taken for the puniſhing of them, and deſtroying of th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>  corrupt Stuffe.</p>
+            <closer>
+               <dateline>Giuen at Theobalds <date>the 17. day of Iuly, in the tenth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent Maieſtie. ANNO DOM. 1612.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
